@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud and I'm a Flutter Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud Masoud and I'm a Flutter Developer, from Egypt</h2>
 
 ###
 
